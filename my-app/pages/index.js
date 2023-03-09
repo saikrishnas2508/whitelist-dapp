@@ -155,7 +155,7 @@ export default function Home() {
       <Head>
         <title>Whitelist Dapp</title>
         <meta name="description" content="Whitelist-Dapp" />
-        <lint rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
         <div>
